@@ -50,7 +50,7 @@ export default function App() {
 	
 	const handleAnswerButtonClick = (isCorrect) =>{
 		
-    if(isCorrect==true){
+    if(isCorrect===true){
 			setScore(score + 1);	
 		};  
        
