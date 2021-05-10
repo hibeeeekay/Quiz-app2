@@ -5,7 +5,7 @@ export default function App() {
 	
 	const questions = [
 		{
-			questionText: 'What is the capital of Lagos state?',
+			questionText: 'What is the capital of Lagos ?',
 			answerOptions: [
 				{ answerText: 'Uyo', isCorrect: false },
 				{ answerText: 'Abeokuta', isCorrect: false },
