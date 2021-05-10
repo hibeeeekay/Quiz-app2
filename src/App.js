@@ -36,8 +36,8 @@ export default function App() {
 			answerOptions: [
 				{ answerText: 'Abuja', isCorrect: false },
 				{ answerText: 'Calabar', isCorrect: false },
-				{ answerText: 'Ibadan', isCorrect: false },
-				{ answerText: 'Lagos', isCorrect: true },
+				{ answerText: 'Ibadan', isCorrect: true },
+				{ answerText: 'Lagos', isCorrect: false },
 			],
 		},
 	];
